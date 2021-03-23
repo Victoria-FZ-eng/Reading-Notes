@@ -13,6 +13,6 @@ For more information [click here](https://www.atlassian.com/blog/inside-atlassia
 
 And now I will introduce myself: I'm Victoria , I hold a bachelore degree in civil engineering & I'm on the way to be a developer.
 
-you can contact me on my [linked in profile](https://www.linkedin.com/in/victoria-f-abuzulof-0a0997200/) .
+you can contact me on my [linked-in profile](https://www.linkedin.com/in/victoria-f-abuzulof-0a0997200/) .
 
 ***Stay Safe, Happy & always Move Forward.*** 
