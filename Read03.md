@@ -5,6 +5,6 @@ And finally I would mention for your site to be concise, clear, selective, provi
 
 And for chapter 17, it talks about the traditional and the new version of HTML elements. For eg. <div> is used in traditional HTML to group related elements, another examples for the latest version HTML5 , eg.  <header> , <article> , <nav> , <figure> , ...  and what they are used for.
 
-And finally for chapter 8, it talks about the versions of HTML and explains some escape characters ,which I find an interesting information, here are some examples : for the sign (&) you can type: either &amp; or &#38; ,for the trade mark sign you can type : either &trade; or $#8482; .
+And finally for chapter 8, it talks about the versions of HTML and explains some escape characters ,which I find an interesting information, here are some examples : for the sign (&) you can type: either "&amp;" or "&#38;" ,for the trade mark sign you can type : either "&trade;" or "$#8482;" .
 
  
