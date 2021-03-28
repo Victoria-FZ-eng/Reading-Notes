@@ -9,18 +9,11 @@
 
 1. Comparing results for more than one comparison operator.
 2. ' && ' is the logical *AND* operator.
-   **T && T** RESULTS T  -
-   **T && F** RESULTS F  -
-   **F && T** RESULTS F  -
-   **F && F** RESULTS F  
+   **T && T** RESULTS T  - **T && F** RESULTS F  - **F && T** RESULTS F  - **F && F** RESULTS F  
 3. ' || ' is the logical *OR* operator.
-   **T || T** RESULTS T  -
-   **T || F** RESULTS T  -
-   **F || T** RESULTS T  -
-   **F || F** RESULTS F  
+   **T || T** RESULTS T  - **T || F** RESULTS T  - **F || T** RESULTS T  -  **F || F** RESULTS F  
 4. ' ! ' is the logical *NOT* operator.
-   **!T** RESULTS F  -
-   **!F** RESULTS T
+   **!T** RESULTS F  - **!F** RESULTS T
 
 *Expresions are evaluated from left to right*.
 
