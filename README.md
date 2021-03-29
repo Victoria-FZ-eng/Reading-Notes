@@ -23,7 +23,7 @@ you can contact me on my [linked-in profile](https://www.linkedin.com/in/victori
  | Read03      | [URL03](Read03.md)   |
  | Read04      | [URL04](Read04.md)   |
  | Read05      | [URL05](Read05.md)   |
-
+ | Read06      | [URL06](Read06.md)   |
   
   
   ***Stay Safe, Happy & always Move Forward.*** 
