@@ -9,4 +9,4 @@ And for **chapter 17**, it talks about the traditional and the new version of HT
 
 And finally for **chapter 8**, it talks about the versions of HTML and explains some escape characters ,which I find an interesting information, here are some examples : for the sign (&) you can type: either `&amp; or &#38;`  ,for the trade mark sign you can type : either `&trade; or $#8482;` without spaces .
 
- 
+ Reference: HTML & CSS pdf.

@@ -1,29 +1,25 @@
 # Reading-Notes
 
 
+## Notes 
 
 
-### Who am I ? . . .
+ | Reading No. |       URL            |
+  -------------|----------------------
+ | Read01      | [The Coder's Computer](Read01.md)   |
+ | Read02a     | [MarkDown](Read02a.md) |
+ | Read02b     | [Git & GitHub](Read02b.md) |
+ | Read03      | [Structure Web Pages with HTML](Read03.md)   |
+ | Read04      | [Programming with JavaScript](Read04.md)   |
+ | Read05      | [Operators & Loops](Read05.md)   |
+ | Read06      | [Design Web Pages with CSS](Read06.md)   |
+  
+  
+  ### Who am I ? .
 
  I'm Victoria , I hold a bachelore degree in civil engineering , has a 2-years experience as a site engineer & I'm on the way to be a developer.
 
 you can contact me on my [linked-in profile](https://www.linkedin.com/in/victoria-f-abuzulof-0a0997200/) .
 
 
-
-
-## Notes 
-
-
- | Reading No. |       URL            |
-  -------------|----------------------
- | Read01      | [URL01](Read01.md)   |
- | Read02a     | [URL02a](Read02a.md) |
- | Read02b     | [URL02b](Read02b.md) |
- | Read03      | [URL03](Read03.md)   |
- | Read04      | [URL04](Read04.md)   |
- | Read05      | [URL05](Read05.md)   |
- | Read06      | [URL06](Read06.md)   |
-  
-  
   ***Stay Safe, Happy & always Move Forward.*** 

@@ -28,3 +28,5 @@ There are three common types of loops:
 
 
 *Note that: for the variable x , the expression 'X += ' means that I identify x with the new resulted value*.
+
+Reference: JavaScript & jQuery pdf.

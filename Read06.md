@@ -12,3 +12,5 @@
 
 + Internally using `<style> <\style>` .
 + Externally by creating css file and then link it to the html file `<link href="URL'\>`.
+
+Reference: HTML & CSS pdf.

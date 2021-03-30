@@ -6,3 +6,5 @@ its more as a tutorial for the beginner users of Git.
 It also explains the workflow ,the lifecycle of file status, tracking and staging a new file  , .... ; and what *commands* should we use :
 
 eg. to track and stage a single file , use the command  'git add'  filename 
+
+Reference:[Check URL](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
