@@ -1,8 +1,15 @@
 # Reading-Notes
 
+ ### Who am I ? .
+
+ I'm Victoria Fares Zulof, I hold a bachelore degree in civil engineering, has a 2-years experience as a site engineer & I'm on the way to be a developer.
+ This repo is created to help beginners get into the software development step by step, Hopfully you find this helfull.
+
+you can contact me on my [linked-in profile](https://www.linkedin.com/in/victoria-f-abuzulof-0a0997200/) .
 
 ## Notes 
 
+### Course 102
 
  | Reading No. |       URL            |
   -------------|----------------------
@@ -14,12 +21,13 @@
  | Read05      | [Operators & Loops](Read05.md)   |
  | Read06      | [Design Web Pages with CSS](Read06.md)   |
   
-  
-  ### Who am I ? .
+### Course 201
 
- I'm Victoria , I hold a bachelore degree in civil engineering , has a 2-years experience as a site engineer & I'm on the way to be a developer.
+| Class No.    |        URL            |
+ --------------|-----------------------
+| Class 01     | [Introduction](Class-01.md) |
 
-you can contact me on my [linked-in profile](https://www.linkedin.com/in/victoria-f-abuzulof-0a0997200/) .
+ 
 
 
   ***Stay Safe, Happy & always Move Forward.*** 
