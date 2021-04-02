@@ -38,7 +38,21 @@ An explaining example:
 There are so many other tags that are used to group some elements like the `<nav>` , `<div>` , `<hgroup>`, `<article>` , `<aside>`, etc....
 
 Escape characters :
-![Escape characters](Screenshot (11).png)
++ ( &lt; ) by typing `&lt;`.
++ ( &gt; ) by typing `&gt;`.
++ ( &amp; ) by typing `&amp;`.
++ ( &quot; ) by typing `&quot;`.
++ ( &cent; ) by typing `&cent;`.
++ ( &pound; ) by typing `&pound;`.
++ ( &yen; ) by typing `&yen;`.
++ ( &euro; ) by typing `&euro;`.
++ ( &copy; ) by typing `&copy;`.
++ ( &lsquo; ) by typing `&lsquo;`.
++ ( &rsquo; ) by typing `&rsquo;`.
++ ( &ldquo; ) by typing `&ldquo;`.
++ ( &rdquo; ) by typing `&rdquo;`.
++ ( &times; ) by typing `&times;`.
++ ( &divide; ) by typing `&divide`. 
 
 *Note*: Before you make your website make sure to understand the targeted audience and to communicate with them properly by the styling and the designing , alwaays plan your page make a map for your site and a wireframe.
 *Note*:extra JavaScript is needed to make the HTML5 work on old versions.
