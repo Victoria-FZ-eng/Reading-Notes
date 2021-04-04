@@ -69,4 +69,4 @@ you can *Add Your JS* :
 
 References :
 * Ch.1, 8, 17 & 18 / *HTML & CSS: Design and Built Websites.JON DUCKETT*.
-* The introduction &  Ch.1 *JavaScript & JQuery:Interactive Front-End Development. JON DUCKETT*.
+* The introduction &  Ch.1 / *JavaScript & JQuery:Interactive Front-End Development. JON DUCKETT*.

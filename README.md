@@ -26,6 +26,7 @@ you can contact me on my [linked-in profile](https://www.linkedin.com/in/victori
 | Class No.    |        URL            |
  --------------|-----------------------
 | Class 01     | [Introduction](Class-01.md) |
+| Class 02     | [HTML Text, CSS Introduction, and Basic JavaScript Instructions](Class-02.md) |
 
  
 
