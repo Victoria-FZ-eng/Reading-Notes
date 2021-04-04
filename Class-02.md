@@ -61,9 +61,22 @@ The script consists of statements  each statement should end with `;` exept for 
  ```
  if the condition is true then the if code would run , if the another condition is true the else if code will run and if the both conditions are false the else code will run.
  
- The condition is written using comparasion operators and logical operators * Those are explaind [Here](Read05.md)*.
+ The condition is written using comparasion operators and logical operators *Those are explaind [Here](Read05.md)*.
+
+# Commit Messages
+## Why & How ?.
+We basically write commit messages in order to organize our changes , so to easily track the changes.Here are the rules of writing commit messages:
+1. Separate subject from body with a blank line.
+2. Limit the subject line to 50 characters.
+3. Capitalize the subject line.
+4. Do not end the subject line with a period.
+5. Use the imperative mood in the subject line.
+6. Wrap the body at 72 characters.
+7. Use the body to explain what and why vs. how.
+
+
 
 References :
 * Ch.2 & Ch.4 / *HTML & CSS: Design and Built Websites.JON DUCKETT*.
 * Ch.2 & Ch.4 / *JavaScript & JQuery:Interactive Front-End Development. JON DUCKETT*.
-* [Check this URL](https://chris.beams.io/posts/git-commit/).
+* [Check URL](https://chris.beams.io/posts/git-commit/).
