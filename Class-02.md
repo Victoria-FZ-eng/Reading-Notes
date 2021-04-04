@@ -36,9 +36,7 @@
 + Internally  using `<style></style>` eg. `<p> <style>{ color:red;} </style> </p>`.
 + Adding an external file `<link href="css/styles.css" type="text/css" rel="stylesheet" />`.
 
-Adding an external file is prefered , we can select the elements by :
-
-![Selectors](/home/victoria/ASAC/Reading-Notes/Screenshot(13).png)
+Adding an external file is prefered , we can select the elements by : [check this](https://www.w3schools.com/cssref/css_selectors.asp)
 
 # Basic JS instructions
 The script consists of statements  each statement should end with `;` exept for the code blocks like if we are using `if (condition){code}` no need to add `;` after the curly brackets.
