@@ -1,6 +1,6 @@
 # Reading-Notes
 
- ### Who am I ? .
+### Who am I ? 
 
  I'm Victoria Fares Zulof, I hold a bachelore degree in civil engineering, has a 2-years experience as a site engineer & I'm on the way to be a developer.
  This repo is created to help beginners get into the software development step by step, Hopfully you find this helfull.
