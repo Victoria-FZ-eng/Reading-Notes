@@ -79,6 +79,7 @@ We basically write commit messages in order to organize our changes , so to easi
 
 
 References :
+
 * Ch.2 & Ch.10 / *HTML & CSS: Design and Built Websites.JON DUCKETT*.
 * Ch.2 & Ch.4 / *JavaScript & JQuery:Interactive Front-End Development. JON DUCKETT*.
 * [Check URL](https://chris.beams.io/posts/git-commit/).

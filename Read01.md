@@ -8,6 +8,7 @@
 *The last topic* explained the files and their extensions  , and explained that on linux  spaces and the case of the letters matter so we have to pay attention to them.
 
 References:
+
 * [Check URL](https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder.pdf)
 * [Check URL2](https://ryanstutorials.net/linuxtutorial/commandline.php)
 * [Check URL3](https://ryanstutorials.net/linuxtutorial/navigation.php)

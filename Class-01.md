@@ -68,5 +68,6 @@ you can *Add Your JS* :
 - Externally by creating and adding **the app.js** file `<script src="relative path for thr app.js file"> </script>` , and this is the most preffered.
 
 References :
+
 * Ch.1, 8, 17 & 18 / *HTML & CSS: Design and Built Websites.JON DUCKETT*.
 * The introduction &  Ch.1 / *JavaScript & JQuery:Interactive Front-End Development. JON DUCKETT*.
