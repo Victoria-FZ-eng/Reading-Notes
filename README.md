@@ -29,7 +29,7 @@ you can contact me on my [linked-in profile](https://www.linkedin.com/in/victori
 | Class 02     | [HTML Text, CSS Introduction, Basic JavaScript Instructions& Commit Messages](Class-02.md) |
 | Class 03     | [HTML Lists, Control Flow with JS, and the CSS Box Model](Class-03.md) |
 | Class 04     | [HTML Links, JS Functions, and Intro to CSS Layout](Class-04.md) |
-
+| Class 05     | [Images, Color, Text](Class-05.md) |
  
 
 
