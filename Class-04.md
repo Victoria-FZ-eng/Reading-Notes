@@ -1,6 +1,6 @@
 # HTML Links & Introduction to CSS Layout
 
-In html you this is how you add a link ` <a href="you copy the url into here">Name the link</a> `.
+In html you this is how you add a link ` <a href="you copy the url into here">`Name the link`</a> `.
 
 ***CSS*** There are so many features to use in setting the layout
 
