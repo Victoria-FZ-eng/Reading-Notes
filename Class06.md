@@ -28,6 +28,12 @@ you need to be aware of Cross-Site Scripting Attacks or XSS; otherwise,
 an attacker could gain access to your users' accounts. 
 * Browsers offer tools for viewing the DOM tree . 
 
+# Understanding The Problem Domain is the hardest part of programming
+
+We always say the solution is in the question, we just need to *understand* what is required. And as we said before about planning our project and do a wire frame, which are parts of understanding the problem domain, or we can say understand what we want as an output to know exactly what to code .
+So, you always need to picture what the whole image is and then try to draw it ( code it in our language) . 
+
+
 
 References :
 
