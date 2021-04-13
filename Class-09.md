@@ -1,6 +1,6 @@
-# Froms
+# Forms
 
-Forms are used to collect some information from users `<form action='url of the recieving page' method='get or post'></method>`, use `type` attribute to select the type of the data you want the users to give like a *text* or a *password* and many other values. Use the attribute `select` to make the user select an `option` of a list, use `input` to upload files.
+Forms are used to collect some information from users `<form action='url of the receiving page' method='get or post'></method>`, use `type` attribute to select the type of the data you want the users to give like a *text* or a *password* and many other values. Use the attribute `select` to make the user select an `option` of a list, use `input` to upload files.
 
 ## Styling tables , lists and forms
 
@@ -8,7 +8,7 @@ For styling tables and lists , refer to the previous classes. You can apply all 
 
 # JS Events
 
-There are user interact events, mouse events, keyboard events , focus , form & mutation events.Some events could trigger a JS function, the most commonly used events are W3C DOM .
+There are user interact events, mouse events, keyboard events , focus , form & mutation events. Some events could trigger a JS function, the most commonly used events are W3C DOM .
 
 ![1](img/Screenshot(41).jpg)
 
