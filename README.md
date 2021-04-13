@@ -33,7 +33,7 @@ you can contact me on my [linked-in profile](https://www.linkedin.com/in/victori
 | Class 06     | [Problem Domain, Objects, and the DOM](Class-06.md) |
 | Class 07     | [Object-Oriented Programming, HTML Tables](Class-07.md) |
 | Class 08     | [CSS Layout](Class-08.md) |
- 
+| Class 09     | [Forms and JS Events](Class-09.md) |
 
 
   ***Stay Safe, Happy & always Move Forward.*** 
