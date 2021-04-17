@@ -35,6 +35,8 @@ you can contact me on my [linked-in profile](https://www.linkedin.com/in/victori
 | Class 08     | [CSS Layout](Class-08.md) |
 | Class 09     | [Forms and JS Events](Class-09.md) |
 | Class 10     | [Error Handling & Debugging](Class-10.md) |
+| Class 11     | [Audio, Video, Images](Class-11.md) |
+
 
 
   ***Stay Safe, Happy & always Move Forward.*** 
