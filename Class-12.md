@@ -1,8 +1,8 @@
 # Charts
 
-In order to creat a chart you need first to download the [Chart.js](https://www.chartjs.org/docs/latest/getting-started/installation.html), and then you set the html structure and add the script to it .
+In order to create a chart you need first to download the [Chart.js](https://www.chartjs.org/docs/latest/getting-started/installation.html), and then you set the html structure and add the script to it .
 
-You can add a new chart by `new Chart.chartType`, you will need to identify the vaues in an array.
+You can add a new chart by `new Chart.chartType`, you will need to identify the values in an array.
 
 # `<canvas> </canvas>`
 
@@ -58,8 +58,8 @@ To draw circles and arcs:
 
 References:
 
-* [URL](https://www.webdesignerdepot.com/2013/11/easily-create-stunning-animated-charts-with-chart-js/)
-* [URL]https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Basic_usage)
-* [URL](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes)
-* [URL](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Applying_styles_and_colors)
-* [URL](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_text)
+* [URL1](https://www.webdesignerdepot.com/2013/11/easily-create-stunning-animated-charts-with-chart-js/)
+* [URL2](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Basic_usage)
+* [URL3](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes)
+* [URL4](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Applying_styles_and_colors)
+* [URL5](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_text)
