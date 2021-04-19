@@ -37,6 +37,7 @@ you can contact me on my [linked-in profile](https://www.linkedin.com/in/victori
 | Class 10     | [Error Handling & Debugging](Class-10.md) |
 | Class 11     | [Audio, Video, Images](Class-11.md) |
 | Class 12     | [Chart.js, Canvas](Class-12.md) |
+| Class 13     | [Local Storage](Class-13.md) |
 
 
 
