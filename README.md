@@ -38,7 +38,8 @@ you can contact me on my [linked-in profile](https://www.linkedin.com/in/victori
 | Class 11     | [Audio, Video, Images](Class-11.md) |
 | Class 12     | [Chart.js, Canvas](Class-12.md) |
 | Class 13     | [Local Storage](Class-13.md) |
-
+| Class 14     | [Build perfect team](Class-14.md) |
+rage
 
 
   ***Stay Safe, Happy & always Move Forward.*** 
