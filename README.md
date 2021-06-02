@@ -9,37 +9,46 @@ you can contact me on my [linked-in profile](https://www.linkedin.com/in/victori
 
 ## Notes 
 
-### Course 102
+### Code 102 - Intro to Software Development
 
- | Reading No. |       URL            |
+ | Class No.   |       URL            |
   -------------|----------------------
- | Read01      | [The Coder's Computer](Read01.md)   |
- | Read02a     | [MarkDown](Read02a.md) |
- | Read02b     | [Git & GitHub](Read02b.md) |
- | Read03      | [Structure Web Pages with HTML](Read03.md)   |
- | Read04      | [Programming with JavaScript](Read04.md)   |
- | Read05      | [Operators & Loops](Read05.md)   |
- | Read06      | [Design Web Pages with CSS](Read06.md)   |
+ | Class 01    | [The Coder's Computer](code102/Read01.md)   |
+ | Class 02a   | [MarkDown](code102/Read02a.md) |
+ | Class 02b   | [Git & GitHub](code102/Read02b.md) |
+ | Class 03    | [Structure Web Pages with HTML](code102/Read03.md)   |
+ | Class 04    | [Programming with JavaScript](code102/Read04.md)   |
+ | Class 05    | [Operators & Loops](code102/Read05.md)   |
+ | Class 06    | [Design Web Pages with CSS](code102/Read06.md)   |
   
-### Course 201
+### Code 201 - Foundations of Software Development
 
 | Class No.    |        URL            |
  --------------|-----------------------
-| Class 01     | [Introduction](Class-01.md) |
-| Class 02     | [HTML Text, CSS Introduction, Basic JavaScript Instructions& Commit Messages](Class-02.md) |
-| Class 03     | [HTML Lists, Control Flow with JS, and the CSS Box Model](Class-03.md) |
-| Class 04     | [HTML Links, JS Functions, and Intro to CSS Layout](Class-04.md) |
-| Class 05     | [Images, Color, Text](Class-05.md) |
-| Class 06     | [Problem Domain, Objects, and the DOM](Class-06.md) |
-| Class 07     | [Object-Oriented Programming, HTML Tables](Class-07.md) |
-| Class 08     | [CSS Layout](Class-08.md) |
-| Class 09     | [Forms and JS Events](Class-09.md) |
-| Class 10     | [Error Handling & Debugging](Class-10.md) |
-| Class 11     | [Audio, Video, Images](Class-11.md) |
-| Class 12     | [Chart.js, Canvas](Class-12.md) |
-| Class 13     | [Local Storage](Class-13.md) |
-| Class 14     | [Build perfect team](Class-14.md) |
-rage
+| Class 01     | [Introduction](code201/Class-01.md) |
+| Class 02     | [HTML Text, CSS Introduction, Basic JavaScript Instructions& Commit Messages](code201/Class-02.md) |
+| Class 03     | [HTML Lists, Control Flow with JS, and the CSS Box Model](code201/Class-03.md) |
+| Class 04     | [HTML Links, JS Functions, and Intro to CSS Layout](code201/Class-04.md) |
+| Class 05     | [Images, Color, Text](code201/Class-05.md) |
+| Class 06     | [Problem Domain, Objects, and the DOM](code201/Class-06.md) |
+| Class 07     | [Object-Oriented Programming, HTML Tables](code201/Class-07.md) |
+| Class 08     | [CSS Layout](code201/Class-08.md) |
+| Class 09     | [Forms and JS Events](code201/Class-09.md) |
+| Class 10     | [Error Handling & Debugging](code201/Class-10.md) |
+| Class 11     | [Audio, Video, Images](code201/Class-11.md) |
+| Class 12     | [Chart.js, Canvas](code201/Class-12.md) |
+| Class 13     | [Local Storage](code201/Class-13.md) |
+| Class 14     | [Build perfect team](code201/Class-14.md) |
+
+### Code 301 - Intermediate Software Development
+
+| Class No.   |       URL            |
+ -------------|----------------------|
+
+### Code 401 - Advanced Software Development
+
+| Class No.   |       URL            |
+ -------------|----------------------|
 
 
   ***Stay Safe, Happy & always Move Forward.*** 
