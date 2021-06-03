@@ -17,17 +17,17 @@ check the references below for more information.
 
 # CSS, Color & Text 
 
-For colours this was explained within coarse 102 ,[check here](Read06.md) .
+For colours this was explained within coarse 102 ,[check here](../Read06.md) .
 
 And for the text; you can control so many properities using css for ex. `font-family` , `font-size` , `@font-face` , `font-weight` , `font-style` , `text-transform` , `text-decoration` , `line-height` ,`letter-spacing` , `word-spacing` , `text-align` , `text-indent` , `vertical-align` , `text-shadow` ,`:first-letter` , `:first-line` , `:link` for the links properities , `:visited` for the visited links properities , `:hover` , `:active` , `:focus` .
 
 these are the units for the text size:
 
-![size units](img/Screenshot(28).jpg)
+![size units](../img/Screenshot(28).jpg)
 
 and check this out:
 
-![selector](img/Screenshot(29).jpg)
+![selector](../img/Screenshot(29).jpg)
 
 References :
 

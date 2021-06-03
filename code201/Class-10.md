@@ -6,11 +6,11 @@ You need to understand also the ***the order of execution*** and ***the scopes**
 
 Objects errors :
 
-![object errors](img/Screenshot(45).jpg).
+![object errors](../img/Screenshot(45).jpg).
 
 Types of errors:
 
-![types of errors](img/Screenshot(46).jpg)
+![types of errors](../img/Screenshot(46).jpg)
 
 ***NaN*** is not an error it indicates that the value of the used variable(in mathematical statements) is not a number.
 

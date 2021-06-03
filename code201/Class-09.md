@@ -10,16 +10,16 @@ For styling tables and lists , refer to the previous classes. You can apply all 
 
 There are user interact events, mouse events, keyboard events , focus , form & mutation events. Some events could trigger a JS function, the most commonly used events are W3C DOM .
 
-![1](img/Screenshot(41).jpg)
+![1](../img/Screenshot(41).jpg)
 
 
-![2](img/Screenshot(42).jpg)
+![2](../img/Screenshot(42).jpg)
 
 
-![3](img/Screenshot(43).jpg)
+![3](../img/Screenshot(43).jpg)
 
 
-![4](img/Screenshot(44).jpg)
+![4](../img/Screenshot(44).jpg)
 
 References :
 

@@ -46,15 +46,15 @@ These offers different tools to help writing the script of web pages . Mainly th
 
 **Here are some usefull functions**
 
-![image1](img/Screenshot(36).jpg).
+![image1](../img/Screenshot(36).jpg).
 
-![image2](img/Screenshot(37).jpg).
+![image2](../img/Screenshot(37).jpg).
 
 And check out these [Helper Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random).
 
 **Objects and timing**
 
-![time functions](img/Screenshot(38).jpg)
+![time functions](../img/Screenshot(38).jpg)
 
 ***Check the link (URL) below that is listed in the references for some examples that explain this whole title of java script objects***
 

@@ -53,15 +53,15 @@ You can also control the text alignment `text-align:center;`, the visability of 
 >Arrays are another type of variables, we use them when asigning a list of values to a variable.
 You can also asign the values and change them.
 *Note that index values start from 0*
-![array](img/Screenshot(20).jpg) 
+![array](../img/Screenshot(20).jpg) 
 
 ## Conditional statements**
 
-+ If statement; and it is explained [Here](Class-02.md) .
++ If statement; and it is explained [Here](../Class-02.md) .
 
 + Switch statement ;
 
-![switch](img/Screenshot(21).jpg)
+![switch](../img/Screenshot(21).jpg)
 
 ## Type coercion
 
@@ -84,10 +84,10 @@ The below listed values are considered to be true; (truthy values):
 
 So,
 
-![expressions](img/Screenshot(22).jpg)
+![expressions](../img/Screenshot(22).jpg)
 
 ## Loops
-The types of loops are previously explained in [Here](Read05.md).
+The types of loops are previously explained in [Here](../Read05.md).
 
 and here are some examples:
 

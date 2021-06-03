@@ -1,12 +1,12 @@
 # Objects
 
-As in [class 04](Class-04.md), object is defined to be a set of variables and functions to create a model 
+As in [class 04](../Class-04.md), object is defined to be a set of variables and functions to create a model 
 of a something you would recognize from the real world. In an object, 
 variables and functions take on new names. *Variables become PROPERITIES and functions become METHODS*.
 
 Here is an example:
 
-![example](img/Screenshot(34).jpg).
+![example](../img/Screenshot(34).jpg).
 
 # DOM
 

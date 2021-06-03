@@ -2,7 +2,7 @@
 
 ### Who am I ? 
 
- I'm Victoria Fares Zulof, I hold a bachelore degree in civil engineering, has a 2-years experience as a site engineer & I'm on the way to be a developer.
+ I'm Victoria Fares Zulof, I hold a bachelore degree in civil engineering, have a 2-years experience as a site engineer & I'm on the way to be a developer.
  This repo is created to help beginners get into the software development step by step, Hopfully you find this helfull.
 
 you can contact me on my [linked-in profile](https://www.linkedin.com/in/victoria-f-abuzulof-0a0997200/) .
