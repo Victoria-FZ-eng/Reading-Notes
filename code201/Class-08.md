@@ -1,6 +1,6 @@
 # CSS Layout
 
-This was [previously explained](../Class-04.md), but here are some useful notes:
+This was [previously explained](Class-04.md), but here are some useful notes:
 
 ## Positioning Elements
 

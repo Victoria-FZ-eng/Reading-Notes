@@ -63,7 +63,7 @@ The script consists of statements  each statement should end with `;` exept for 
  ```
  if the condition is true then the if code would run , if the another condition is true the else if code will run and if the both conditions are false the else code will run.
  
- The condition is written using comparision operators and logical operators *Those are explained [Here](Read05.md)*.
+ The condition is written using comparision operators and logical operators *Those are explained [Here](../code102/Read05.md)*.
 
 # Commit Messages
 ## Why & How ?.

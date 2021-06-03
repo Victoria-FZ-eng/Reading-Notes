@@ -57,7 +57,7 @@ You can also asign the values and change them.
 
 ## Conditional statements**
 
-+ If statement; and it is explained [Here](../Class-02.md) .
++ If statement; and it is explained [Here](Class-02.md) .
 
 + Switch statement ;
 
@@ -87,7 +87,7 @@ So,
 ![expressions](../img/Screenshot(22).jpg)
 
 ## Loops
-The types of loops are previously explained in [Here](../Read05.md).
+The types of loops are previously explained in [Here](../code102/Read05.md).
 
 and here are some examples:
 
