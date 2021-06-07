@@ -2,7 +2,7 @@
 
 ## Component Lifecycle Events
 
-![Diagram](../img/Screenshot (71).png) 
+![Diagram](../img/Screenshot(71).png) .
 
 ## props vs. state
 
