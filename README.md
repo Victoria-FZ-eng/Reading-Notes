@@ -49,7 +49,7 @@ you can contact me on my [linked-in profile](https://www.linkedin.com/in/victori
 | Class 03    | [Passing Functions as Props](code301/class-03.md) |
 | Class 04    | [React & Forms](code301/class-04.md) |
 | Class 05    | [Putting it all together](code301/class-05.md) |
-| Class 06    | [](code301/class-06.md) |
+| Class 06    | [NODE.JS](code301/class-06.md) |
 | Class 07    | [](code301/class-07.md) |
 | Class 08    | [](code301/class-08.md) |
 | Class 09    | [](code301/class-09.md) |
