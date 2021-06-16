@@ -52,7 +52,7 @@ you can contact me on my [linked-in profile](https://www.linkedin.com/in/victori
 | Class 06    | [NODE.JS](code301/class-06.md) |
 | Class 07    | [REST](code301/class-07.md) |
 | Class 08    | [APIs](code301/class-08.md) |
-| Class 09    | [](code301/class-09.md) |
+| Class 09    | [Functional Programming](code301/class-09.md) |
 | Class 10    | [](code301/class-10.md) |
 | Class 11    | [](code301/class-11.md) |
 | Class 12    | [](code301/class-12.md) |
