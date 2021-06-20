@@ -55,7 +55,7 @@ you can contact me on my [linked-in profile](https://www.linkedin.com/in/victori
 | Class 09    | [Functional Programming](code301/class-09.md) |
 | Class 10    | [In Memory Storage](code301/class-10.md) |
 | Class 11    | [Authentication](code301/class-11.md) |
-| Class 12    | [](code301/class-12.md) |
+| Class 12    | [Mongo and Mongoose](code301/class-12.md) |
 | Class 13    | [](code301/class-13.md) |
 | Class 14    | [](code301/class-14.md) |
 | Class 15    | [](code301/class-15.md) |
