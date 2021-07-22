@@ -64,7 +64,10 @@ you can contact me on my [linked-in profile](https://www.linkedin.com/in/victori
 ### Code 401 - Advanced Software Development
 
 | Class No.   |       URL            |
- -------------|----------------------|
+|-------------|----------------------|
+| Class 01    | [Java Basics](code401/class-01.md) |
 
 
-  ***Stay Safe, Happy & always Move Forward.*** 
+
+
+ ***Stay Safe, Happy & always Move Forward.*** 
