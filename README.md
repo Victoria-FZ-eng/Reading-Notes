@@ -67,7 +67,7 @@ you can contact me on my [linked-in profile](https://www.linkedin.com/in/victori
 |-------------|----------------------|
 | Class 01    | [Java Basics](code401/class-01.md) |
 | Class 02    | [Arrays, Loops, Imports](code401/class-02.md) |
-
+| Class 03    | [Maps, primitives, File I/O](code401/class-03.md) |
 
 
 
