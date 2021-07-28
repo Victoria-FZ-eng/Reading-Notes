@@ -4,7 +4,7 @@
 
 ![Linked List](../img/401-4-a.png)
 
-![Types](../img/401-4-ab.png)
+![Types](../img/401-4-b.png)
 
 ### Big O 
 
