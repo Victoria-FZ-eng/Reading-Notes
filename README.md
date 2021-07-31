@@ -70,7 +70,7 @@ you can contact me on my [linked-in profile](https://www.linkedin.com/in/victori
 | Class 03    | [Maps, primitives, File I/O](code401/class-03.md) |
 | Class 04    | [OOP](code401/class-04.md) |
 | Class 05    | [Linked Lists](code401/class-05.md) |
-
+| Class 06    | [Inheritance and Interfaces](code401/class-06.md) |
 
 
  ***Stay Safe, Happy & always Move Forward.*** 
