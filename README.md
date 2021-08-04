@@ -73,6 +73,7 @@ you can contact me on my [linked-in profile](https://www.linkedin.com/in/victori
 | Class 06 -07| [Inheritance and Interfaces](code401/class-06.md) |
 | Class 08    | [OO Design](code401/class-08.md) |
 | Class 09    | [WRRC and Java](code401/class-09.md) |
+| Class 10    | [Stacks and Queues](code401/class-10.md) |
 
 
  ***Stay Safe, Happy & always Move Forward.*** 
