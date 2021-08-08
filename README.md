@@ -75,6 +75,7 @@ you can contact me on my [linked-in profile](https://www.linkedin.com/in/victori
 | Class 09    | [WRRC and Java](code401/class-09.md) |
 | Class 10    | [Stacks and Queues](code401/class-10.md) |
 | Class 11    | [Spring](code401/class-11.md) |
+| Class 12    | [Spring RESTful Routing & Static Files](code401/class-12.md) |
 
 
  ***Stay Safe, Happy & always Move Forward.*** 
