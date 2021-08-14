@@ -79,6 +79,7 @@ you can contact me on my [linked-in profile](https://www.linkedin.com/in/victori
 | Class 13    | [Related Resources and Integration Testing](code401/class-13.md) |
 | Class 14    | ---- |
 | Class 15    | [Trees](code401/class-15.md) |
+| Class 16    | [Spring Authentication](code401/class-16.md) |
 
 
  ***Stay Safe, Happy & always Move Forward.*** 
