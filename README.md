@@ -81,6 +81,7 @@ you can contact me on my [linked-in profile](https://www.linkedin.com/in/victori
 | Class 15    | [Trees](code401/class-15.md) |
 | Class 16    | [Spring Authentication](code401/class-16.md) |
 | Class 17    | [Spring Authorization](code401/class-17.md) |
+| Class 18    | [Web App Security](code401/class-18.md) |
 
 
  ***Stay Safe, Happy & always Move Forward.*** 
