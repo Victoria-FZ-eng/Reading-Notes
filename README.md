@@ -82,6 +82,7 @@ you can contact me on my [linked-in profile](https://www.linkedin.com/in/victori
 | Class 16    | [Spring Authentication](code401/class-16.md) |
 | Class 17    | [Spring Authorization](code401/class-17.md) |
 | Class 18    | [Web App Security](code401/class-18.md) |
+| Class 19    | [Spring and Sockets](code401/class-19.md) |
 
 
  ***Stay Safe, Happy & always Move Forward.*** 
