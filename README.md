@@ -83,8 +83,10 @@ you can contact me on my [linked-in profile](https://www.linkedin.com/in/victori
 | Class 17    | [Spring Authorization](code401/class-17.md) |
 | Class 18    | [Web App Security](code401/class-18.md) |
 | Class 19    | [Spring and Sockets](code401/class-19.md) |
+|**Part 2**                                                   |
 | Class 26   | [Android Fundamentals](code401/class-26.md) |
 | Class 27   | [Intents, Activities, and SharedPreferences](code401/class-27.md) |
+| Class 28   | [RecyclerView](code401/class-28.md) |
 
 
  ***Stay Safe, Happy & always Move Forward.*** 
