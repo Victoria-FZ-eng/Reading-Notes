@@ -90,6 +90,7 @@ you can contact me on my [linked-in profile](https://www.linkedin.com/in/victori
 | Class 29   | [Room](code401/class-29.md) |
 | Class 30   | [Hash Tables](code401/class-30.md) |
 | Class 31   | [Espresso](code401/class-31.md) |
+| Class 32   | [Serverless and Amplify](code401/class-32.md) |
 
 
  ***Stay Safe, Happy & always Move Forward.*** 
