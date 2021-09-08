@@ -93,6 +93,7 @@ you can contact me on my [linked-in profile](https://www.linkedin.com/in/victori
 | Class 32   | [Serverless and Amplify](code401/class-32.md) |
 | Class 33   | [GraphQL @connection](code401/class-33.md) |
 | Class 34   | [Monetization](code401/class-34.md) |
+| Class 35   | [Graphs](code401/class-35.md) |
 
 
  ***Stay Safe, Happy & always Move Forward.*** 
