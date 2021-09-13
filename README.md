@@ -95,6 +95,8 @@ you can contact me on my [linked-in profile](https://www.linkedin.com/in/victori
 | Class 34   | [Monetization](code401/class-34.md) |
 | Class 35   | [Graphs](code401/class-35.md) |
 | Class 36   | [Cognito](code401/class-36.md) |
+| Class 37   | [S3](code401/class-37.md) |
+
 
 
  ***Stay Safe, Happy & always Move Forward.*** 
