@@ -96,8 +96,8 @@ you can contact me on my [linked-in profile](https://www.linkedin.com/in/victori
 | Class 35   | [Graphs](code401/class-35.md) |
 | Class 36   | [Cognito](code401/class-36.md) |
 | Class 37   | [S3](code401/class-37.md) |
-| Class 38   | [Notifications](code401/class-38.md) |
-
+| Class 38   | [Notifications](code401/class-38.md) |  
+| Class 41   | [Intent Filters](code401/class-41.md) | 
 
 
  ***Stay Safe, Happy & always Move Forward.*** 
